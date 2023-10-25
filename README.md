@@ -40,7 +40,7 @@ git clone https:/git@github.com:keowen375/Superheros-API-Flask.git
 
 cd Superheros-API-Flask
 
-### 3. Install required dependencies
+### 3. Install required dependencies.
 
 pip install -r requirements.txt
 
