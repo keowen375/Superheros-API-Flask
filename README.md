@@ -36,7 +36,7 @@
 
 git clone https:/git@github.com:keowen375/Superheros-API-Flask.git
 
-### 2. Navigate to the project's directory
+### 2. Navigate to the project's directory.
 
 cd Superheros-API-Flask
 
